@@ -1,7 +1,7 @@
 Conflict file
 
 Line1: file in master
-Line2: change/modify with conflict
+Line2: change/modify with master branch
 Line3: file conflict
 
 EOF
