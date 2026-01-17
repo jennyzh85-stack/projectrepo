@@ -1,7 +1,11 @@
 Conflict file
 
 Line1: file in master
-Line2: change/modify with master branch
+<<<<<<< HEAD
+Line2: change/modify with master and feature branch
+=======
+Line2: change/modify with master and feature branch
+>>>>>>> conflict_feature
 Line3: file conflict
 
 EOF
